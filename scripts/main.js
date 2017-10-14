@@ -118,7 +118,7 @@ function update(h) {
 	}
 	
 	en.x = Math.random() * WIDTH
-	en.y = 0
+	en.y = -200
 	
 	ents = en
 }
